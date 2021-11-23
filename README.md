@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Shihab Uddin
 #### I am React Native Developaer
-![I am React Native Developaer](https://scontent.fdac135-1.fna.fbcdn.net/v/t1.6435-9/s960x960/249803907_1943288952498890_3976083762111035687_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=x3JpnojmA3cAX_SrFDa&_nc_oc=AQkWYUGOkpJJf9KGmpBGWKh22DMWFA5ZabOMl_jRjw91vKBjeCdKHjHQalz2Lnao10c&_nc_ht=scontent.fdac135-1.fna&oh=848c66a1a24e9d679dbf342b14830f65&oe=61A39D15)
+![I am React Native Developaer]
 
 Easy to follow and straight to the  App Development tutorials for advanced and beginner programmers.
 
